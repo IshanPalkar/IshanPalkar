@@ -2,9 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=4A13F7&width=435&lines=Full+Stack+Web+Developer." alt="Typing SVG" /></a>
 
-I'm an full-stack developer with working experience of a user-friendly platform for customers to open bank accounts online, including registration, ID
-verification, account opening, document submission, etc.
-
+I'm an Backend Developer, who likes to develop web apps and design backend systems along with keen interest in devops.
 
 ---
 
