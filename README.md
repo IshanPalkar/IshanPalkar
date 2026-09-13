@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=4A13F7&width=435&lines=Full+Stack+Web+Developer." alt="Typing SVG" /></a>
 
-I'm an Backend Developer, who likes to develop web apps and design backend systems along with keen interest in devops.
+I'm an FullStack Engineer, who likes to develop web apps and design backend systems along with keen interest in devops.
 
 ---
 
